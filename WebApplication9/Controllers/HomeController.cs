@@ -13,5 +13,10 @@ namespace WebApplication9.Controllers
         {
             return View();
         }
+
+        public ActionResult Index1()
+        {
+            return View();
+        }
     }
 }
